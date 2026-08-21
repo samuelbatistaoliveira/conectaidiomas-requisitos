@@ -1,7 +1,7 @@
 # 🌐 ConectaIdiomas
 ![Requisitos](https://img.shields.io/badge/Engenharia%20de-Requisitos-green)
 ![UML](https://img.shields.io/badge/Modelagem-UML-blue)
-![Figma/Wireframes](https://img.shields.io/badge/UI%2FUX-Protótipos-orange)
+![Protótipos](https://img.shields.io/badge/Prototipação-Wireframes-orange)
 
 Sistema proposto para facilitar a conexão entre estudantes interessados em praticar idiomas dentro do ambiente acadêmico.
 
