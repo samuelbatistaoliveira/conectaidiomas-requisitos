@@ -204,15 +204,3 @@ conectaidiomas-requisitos/
 │
 ├── docs/
 │   └── ConectaIdiomas-Requisitos.pdf
-│
-├── diagramas/
-│   ├── diagrama-caso-de-uso.png
-│   ├── diagrama-atividades.png
-│   ├── diagrama-transicao-estado.png
-│   ├── diagrama-sequencia-login.png
-│   ├── diagrama-sequencia-agendamento.png
-│   ├── diagrama-sequencia-suspensao.png
-│   └── diagrama-classes.png
-│
-└── prototipos/
-    └── baixa-fidelidade/
